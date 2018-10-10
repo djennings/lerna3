@@ -66,5 +66,6 @@
   "dependencies": {
     "prop-types": "^15.5.0",
     "react": "^16.2.0"
-  }
+  },
+  "gitHead": "9a888c95504937753d5f5a52a2dd969edf9a56f5"
 }
