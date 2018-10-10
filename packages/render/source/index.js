@@ -1,5 +1,5 @@
 /*
-  // Used like so…
+  // Uaage
 
   <Render if={this.props.bool}>
     <p>
